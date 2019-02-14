@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_Authorization", "Api_Authorization\Api_Authorization.csproj", "{DBDAE13C-108F-4322-A559-190CAECA3757}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{D94F7F97-C72A-470B-BB3E-2FCB03891240}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DBDAE13C-108F-4322-A559-190CAECA3757}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBDAE13C-108F-4322-A559-190CAECA3757}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBDAE13C-108F-4322-A559-190CAECA3757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D94F7F97-C72A-470B-BB3E-2FCB03891240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94F7F97-C72A-470B-BB3E-2FCB03891240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94F7F97-C72A-470B-BB3E-2FCB03891240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94F7F97-C72A-470B-BB3E-2FCB03891240}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

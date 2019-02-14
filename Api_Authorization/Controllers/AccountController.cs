@@ -28,6 +28,8 @@ namespace Api_Authorization.Controllers
             _tokenService = tokenService;
             _passwordHasher = passwordHasher;
             _context = context;
+
+            _userService.CreateUserDemo();
         }
 
         [HttpPost]
